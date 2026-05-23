@@ -1,0 +1,6 @@
+name: HaProxy
+version: '1.0.0'
+main: com.heonezen.haproxy.HaProxyPlugin
+api-version: '1.21'
+description: 'HAProxy Protocol'
+author: 'com.heonezen'
