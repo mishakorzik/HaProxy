@@ -9,4 +9,4 @@ mvn clean package
 ```
 
 ## Notice
-Works with Folia.
+Works with Folia and Paper (or forks like Purpur, ...)
