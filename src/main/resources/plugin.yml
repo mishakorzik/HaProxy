@@ -1,0 +1,9 @@
+name: HaProxy
+version: 1.0.1
+main: com.heonezen.haproxy.HaProxyPlugin
+api-version: "1.21"
+description: HAProxy Protocol
+authors:
+- HeOneZen
+folia-supported: true
+website: https://github.com/mishakorzik
